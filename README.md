@@ -131,5 +131,3 @@ pip install opencv-python mediapipe numpy pygame
 - [MediaPipe Face Landmarker](https://developers.google.com/mediapipe/solutions/vision/face_landmarker)
 - [OpenCV Documentation](https://docs.opencv.org)
 - [pygame Documentation](https://www.pygame.org/docs)
-
----
