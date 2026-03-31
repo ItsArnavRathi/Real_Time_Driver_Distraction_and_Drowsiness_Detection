@@ -46,42 +46,6 @@ Real_Time_Driver_Distraction_and_Drowsiness_Detection/
 
 ---
 
-## Setup and Installation
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/ItsArnavRathi/Real_Time_Driver_Distraction_and_Drowsiness_Detection.git
-cd Real_Time_Driver_Distraction_and_Drowsiness_Detection
-```
-
-**2. Create a virtual environment**
-
-```bash
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate     # Linux / macOS
-```
-
-**3. Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-**4. Add an alarm sound**
-
-Place any short audio file named `alarm.mp3` in the project root. Free sounds are available at [freesound.org](https://freesound.org).
-
-**5. Run the system**
-
-```bash
-python main.py
-```
-
-Press `Esc` to exit.
-
----
 
 ## How It Works
 
@@ -169,8 +133,3 @@ pip install opencv-python mediapipe numpy pygame
 - [pygame Documentation](https://www.pygame.org/docs)
 
 ---
-
-## Author
-
-**Arnav Rathi**  
-GitHub: [ItsArnavRathi](https://github.com/ItsArnavRathi)
